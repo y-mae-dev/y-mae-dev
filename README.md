@@ -47,11 +47,18 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 - Improving my skills in **database design and optimization**.
 
 ---
+## 🏅 Certificates
+<details>
+  <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+</details>
+
 ---
+## 📝Blogs
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
