@@ -94,10 +94,3 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 </p>
 
 ---
-
-## 📈 Contribution Graph
-![image](https://github.com/user-attachments/assets/7f00866e-1c44-42eb-8ceb-39af041aed14)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y-mae-dev&bg_color=0d1117&color=58a6ff&line=ffffff&point=f4a261&area=true&hide_border=true" alt="y-mae-dev Contribution Graph" />
-</p>
