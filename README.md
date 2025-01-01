@@ -48,6 +48,15 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 
 ---
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+---
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## ⚡ Fun Facts
 
 - 🏃 I love staying active:
