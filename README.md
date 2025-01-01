@@ -83,14 +83,3 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y-mae-dev&theme=radical" alt="GitHub Streak" width="80%" />
 </div>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=y-mae-dev&theme=onedark&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
----
