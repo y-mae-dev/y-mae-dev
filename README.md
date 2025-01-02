@@ -36,8 +36,8 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,aws,gcp" alt="Technical Skills" />
 </p>
 
-- 💡 **Python**: Specialized in backend systems and automation with integrating AWS services for about 2 years.
-- 💻 **PHP & Laravel**: Experienced in building web applications for 1 year.　
+- 💡 **Python**: Specialized in backend systems and automation with integrating AWS services for about 1 year.
+- 💻 **PHP & Laravel**: Experienced in building web applications for about 1 year.　
 
 ---
 
