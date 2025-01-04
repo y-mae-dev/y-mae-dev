@@ -45,6 +45,7 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 
 - Exploring and learning advanced **AI/ML technologies**.
 - Improving my skills in **database design and optimization**.
+- Learning **English** to enhance my ability.
 
 ---
 ## 🏅 Certificates
@@ -68,7 +69,7 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 </details>
 
 ---
-## 📝Blogs
+## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
 - [【AWS】Streamlitで作成したRAGアプリケーションをEC2にデプロイし、HTTPS化して安全に公開する方法を丁寧に解説](https://qiita.com/y-mae/items/8dfacebf56347e9c1469)
