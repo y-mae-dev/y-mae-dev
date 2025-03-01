@@ -53,7 +53,8 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/01ca84b5-1792-4b5a-aac6-559f42c3d7dc "AWS Certified SysOps Administrator – Associate")
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/2edfb855-94af-476d-b8a3-96986a6e64be "AWS Certified DevOps Engineer – Professional")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/f6c3f7a3-61a2-4864-8992-84e501f1c9c9 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/0b6840b6-ac0b-4053-b41d-ef4424a1c133 "AWS Certified AI Practitioner Early Adopter")
 [![AWS Certified Machine Learning Engineer - Associate Early Adopter](https://images.credly.com/size/110x110/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png)](http://www.credly.com/badges/2070b617-f314-43f0-b083-de9d27ed56f7 "AWS Certified Machine Learning Engineer - Associate Early Adopter")
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/a9912bd5-ce96-4222-b0a1-fefa4e9c7fb8 "AWS Certified AI Practitioner")
@@ -62,9 +63,9 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 [![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](http://www.credly.com/badges/0da657b5-5e03-4d43-a183-a4559cb7ed63 "AWS Certified Machine Learning – Specialty")
 [![Associate Cloud Engineer](https://images.credly.com/size/110x110/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](http://www.credly.com/badges/4334632c-e6ca-4dff-8323-6804b8f9b58f "Associate Cloud Engineer")
 [![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/fc4917f4-5b53-46a8-9819-135238bca6c4 "Cloud Digital Leader")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/affb5e2c-984b-4897-8d2e-f7ff567cfab9 "AWS Certified Developer – Associate")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/69618f9c-085f-4a15-886e-a7fc859fcebe "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/35c7d1d7-9955-4579-b89b-b94b790a7fff "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b7b9cabf-9c2e-4af0-8fd6-eec60c387d20 "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d729c85b-ba66-4416-8ecb-f423f0bf1ff9 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 </details>
