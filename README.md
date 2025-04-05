@@ -74,10 +74,10 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 ## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlit v1.43.0〜1.44.0で個人的に気になったアップデートまとめ](https://qiita.com/y-mae/items/20290102b88b7f98cdb7)
 - [ryeを使って、BoxのデータをS3に同期するバッチを作成する〜前編:rye導入編〜](https://qiita.com/y-mae/items/d6ef0bfa008f96e5ff75)
 - [【AWS】Streamlitで作成したRAGアプリケーションをEC2にデプロイし、HTTPS化して安全に公開する方法を丁寧に解説](https://qiita.com/y-mae/items/8dfacebf56347e9c1469)
 - [AWSでRAGを実装する上で感じた3つの大事なこと](https://qiita.com/y-mae/items/c8b60527a3d8249ceb06)
-- [re:Invent2024 で発表されたAmazon Bedrock Data Automation を試してみる](https://qiita.com/y-mae/items/d085c0cb2c9dcd35deab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
