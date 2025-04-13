@@ -53,6 +53,7 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/c46a2801-c9d0-4611-946b-f0b7d51b725b "AWS Certified Security – Specialty")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/2edfb855-94af-476d-b8a3-96986a6e64be "AWS Certified DevOps Engineer – Professional")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/f6c3f7a3-61a2-4864-8992-84e501f1c9c9 "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/0b6840b6-ac0b-4053-b41d-ef4424a1c133 "AWS Certified AI Practitioner Early Adopter")
