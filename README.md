@@ -53,6 +53,8 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/4b25f211-8ee4-4253-8c2a-e259f3c14436" title="Professional Machine Learning Engineer"><img src="https://images.credly.com/size/80x80/images/00096281-8052-4cf1-b412-37702a94b539/image.png" alt="Professional Machine Learning Engineer" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/51cf0c61-d53d-411c-835b-d74dcba45b3a" title="Professional Data Engineer"><img src="https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png" alt="Professional Data Engineer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e31e513d-9ad9-4e07-a950-a5ad27a6cf41" title="Professional Cloud Developer"><img src="https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" alt="Professional Cloud Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9a484aff-2391-4c87-bf0a-f2d2ff6c8f5c" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e0c55be3-ecb1-4362-9643-eb3ef536d54e" title="Professional Cloud Architect"><img src="https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" alt="Professional Cloud Architect" width="80" height="80"></a>
