@@ -53,6 +53,7 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/440c55bd-2d48-43c3-ad95-4ec57167232f" title="Associate Data Practitioner Certification"><img src="https://images.credly.com/size/80x80/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4b25f211-8ee4-4253-8c2a-e259f3c14436" title="Professional Machine Learning Engineer"><img src="https://images.credly.com/size/80x80/images/00096281-8052-4cf1-b412-37702a94b539/image.png" alt="Professional Machine Learning Engineer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/51cf0c61-d53d-411c-835b-d74dcba45b3a" title="Professional Data Engineer"><img src="https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png" alt="Professional Data Engineer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e31e513d-9ad9-4e07-a950-a5ad27a6cf41" title="Professional Cloud Developer"><img src="https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" alt="Professional Cloud Developer" width="80" height="80"></a>
