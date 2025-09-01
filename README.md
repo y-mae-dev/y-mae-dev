@@ -53,6 +53,8 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b5588fac-92bc-4a82-b4e6-56dbd0331ed3" title="Generative AI Leader Certification (ja)"><img src="https://images.credly.com/size/80x80/images/aae35976-6fff-441c-9ecc-186d56f6f669/blob" alt="Generative AI Leader Certification (ja)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/fdde24ef-4015-4d0c-8c29-f73e31121966" title="Professional Cloud Database Engineer Certification"><img src="https://images.credly.com/size/80x80/images/b170e960-57d8-4c4a-883d-21b9e420b9dd/image.png" alt="Professional Cloud Database Engineer Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/8cb04d8e-123c-4e53-b5d1-1a04703c19c7" title="AWS Certified Advanced Networking – Specialty"><img src="https://images.credly.com/size/80x80/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="AWS Certified Advanced Networking – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/440c55bd-2d48-43c3-ad95-4ec57167232f" title="Associate Data Practitioner Certification"><img src="https://images.credly.com/size/80x80/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4b25f211-8ee4-4253-8c2a-e259f3c14436" title="Professional Machine Learning Engineer"><img src="https://images.credly.com/size/80x80/images/00096281-8052-4cf1-b412-37702a94b539/image.png" alt="Professional Machine Learning Engineer" width="80" height="80"></a>
