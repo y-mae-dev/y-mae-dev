@@ -88,10 +88,10 @@ I am also deeply interested in the field of AI/ML and continuously explore ways 
 ## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock AgentCoreで、Slackに回答を行う栄養指導エージェントを作成する](https://qiita.com/y-mae/items/4505aba54aa9e141365c)
 - [Amazon Bedrock AgentCoreでADKを呼び出してみる](https://qiita.com/y-mae/items/9fcfebd9f52af907e7dc)
 - [【検証】画像PDFを検索可能化してRAGデータソースに活用する](https://qiita.com/y-mae/items/568da7bd706065802c07)
 - [Streamlit v1.43.0〜1.44.0で個人的に気になったアップデートまとめ](https://qiita.com/y-mae/items/20290102b88b7f98cdb7)
-- [ryeを使って、BoxのデータをS3に同期するバッチを作成する〜前編:rye導入編〜](https://qiita.com/y-mae/items/d6ef0bfa008f96e5ff75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
