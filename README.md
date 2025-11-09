@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I am a backend developer working at a system development company in Japan.  
-I mainly focus on backend development, with extensive experience in **AWS-based solutions**.  
-I am also deeply interested in the field of AI/ML and continuously explore ways to incorporate these technologies into my work.
+I'm a developer working at iret,inc, a system development company in Japan.
+I mainly engaged in system development, with extensive experience in AWS-based solutions.
+I'm also deeply interested in the field of AI/ML and continuaously explore ways to incorporate these technologies into my work.
 
 ### 🏆 Achievements:
 - Selected as **2024 Japan AWS Jr. Champions**  
