@@ -43,8 +43,8 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 
 ## 🔭 Current Focus
 
-- Exploring and learning advanced **AI/ML technologies**.
-- Improving my skills in **database design and optimization**.
+- Developing a RAG-based system and Improving the accuracy of RAG
+- Learning about AI Agent development and related fields (e.g., MCP)
 - Learning **English** to enhance my ability.
 
 ---
