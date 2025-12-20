@@ -88,10 +88,10 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 ## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS公式のMCPサーバーを使って、インフラコスト見積もりを効率化する](https://qiita.com/y-mae/items/858c9577d23c90d0f35a)
 - [Gemini API の File Search Tool を試してみる](https://qiita.com/y-mae/items/cc3246ec6bc5b1aa7de7)
 - [Amazon Bedrock AgentCoreで、Slackに回答を行う栄養指導エージェントを作成する](https://qiita.com/y-mae/items/4505aba54aa9e141365c)
 - [Amazon Bedrock AgentCoreでADKを呼び出してみる](https://qiita.com/y-mae/items/9fcfebd9f52af907e7dc)
-- [【検証】画像PDFを検索可能化してRAGデータソースに活用する](https://qiita.com/y-mae/items/568da7bd706065802c07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
