@@ -88,10 +88,10 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 ## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
+- [GenUの「Agent Builder」ユースケースを使って、お手軽にエージェントを作成して利用してみよう](https://qiita.com/y-mae/items/92842c167a0096dedb91)
 - [GeminiアプリでSAT（アメリカの大学進学適性試験）の模擬試験が受けられる機能を試してみた](https://qiita.com/y-mae/items/0781beab6a24d0219c24)
 - [Amazon Bedrock AgentCore のマルチエージェント構成を Terraform でサクッと試してみる](https://qiita.com/y-mae/items/beb6f99b456e153b035e)
 - [AWS公式のMCPサーバーを使って、インフラコスト見積もりを効率化する](https://qiita.com/y-mae/items/858c9577d23c90d0f35a)
-- [Gemini API の File Search Tool を試してみる](https://qiita.com/y-mae/items/cc3246ec6bc5b1aa7de7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
