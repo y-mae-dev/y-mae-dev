@@ -88,10 +88,10 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 ## 📝Blogs(Recent Published)
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome DevTools for Agentsのトークン消費・実行時間をplaywright-cliと比べてみた](https://qiita.com/y-mae/items/170cd4566e4ad01f969e)
 - [Nano Banana Pro でClaude Code skill のユースケースを「見える化」する](https://qiita.com/y-mae/items/c8d99eb530430ab2c368)
 - [Claude Code のスキルで、技術ブログのファクトチェックとレビューを仕組み化する](https://qiita.com/y-mae/items/a869b52f2fa401133087)
 - [GenUの「Agent Builder」ユースケースを使って、お手軽にエージェントを作成して利用してみよう](https://qiita.com/y-mae/items/92842c167a0096dedb91)
-- [GeminiアプリでSAT（アメリカの大学進学適性試験）の模擬試験が受けられる機能を試してみた](https://qiita.com/y-mae/items/0781beab6a24d0219c24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
