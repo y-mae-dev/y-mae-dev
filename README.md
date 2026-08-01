@@ -78,8 +78,8 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 [![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/80x80/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/0da657b5-5e03-4d43-a183-a4559cb7ed63)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/69618f9c-085f-4a15-886e-a7fc859fcebe)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/4e387456-2c89-4ba0-a79c-5a6209b67423)
-[![Associate Cloud Engineer](https://images.credly.com/size/80x80/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](https://www.credly.com/badges/36645f9b-0c45-48b6-a3ff-1d97753264cf)
-[![Cloud Digital Leader](https://images.credly.com/size/80x80/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](https://www.credly.com/badges/acd24e4f-21f2-4075-9ef7-920736a52e77)
+[![Associate Cloud Engineer](https://images.credly.com/size/80x80/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](https://www.credly.com/badges/d7425800-b74d-4b65-8a56-189ea895ff15)
+[![Cloud Digital Leader](https://images.credly.com/size/80x80/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](https://www.credly.com/badges/b451b93b-bb7f-42e4-93af-db4d9be13cd2)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/8a10d3bf-ed6f-4046-8231-7ab287a61273)
 <!--END_SECTION:badges-->
 
