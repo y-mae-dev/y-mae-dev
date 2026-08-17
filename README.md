@@ -27,7 +27,8 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 ### 🏆 Achievements:
 - Selected as **2024 Japan AWS Jr. Champions**  
   Learn more: [AWS Blog - 2024 Japan AWS Jr. Champions](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-jr-champions/)
-
+- Selected as **2026 Japan AWS Top Engineers (AI/ML Data Engineer)**  
+  Learn more: [AWS Blog - 2026 Japan AWS Top Engineers](https://aws.amazon.com/jp/blogs/psa/2026-japan-aws-top-engineers/)
 ---
 
 ## 🛠️ Technical Skills
