@@ -54,6 +54,10 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Generative AI Developer - Professional](https://images.credly.com/size/80x80/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/badges/e80f3b9d-f0f4-4942-a121-3662d86fc682)
+[![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/6fd34c49-b8e9-4ede-bbd7-5a27276ed6f9)
+[![Implement CI/CD Pipelines on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/0daf1b0e-28c3-4102-96cf-e9d5f9213cc3/image.png)](https://www.credly.com/badges/edd47588-0fd1-4fe9-8e3e-d4fed01d7c52)
+[![Professional Security Operations Engineer Certification (Japanese)](https://images.credly.com/size/80x80/images/1797093e-3b56-4c4e-833c-8d9498ed2601/blob)](https://www.credly.com/badges/3f2834fd-dea5-4bba-8a54-14dea1fdc8a8)
 [![2026 Japan AWS Top Engineers](https://images.credly.com/size/80x80/images/6dc24c9e-2bf5-43ea-9f44-abf6e64de1e9/blob)](https://www.credly.com/badges/e987f470-7bca-47d4-a7bf-683db25a729d)
 [![Professional Cloud DevOps Engineer](https://images.credly.com/size/80x80/images/9baf2afb-e107-4acc-b886-5d8112581e73/image.png)](https://www.credly.com/badges/e12cadb0-d90f-4bdd-9cfa-063bd3f35eaa)
 [![Professional Cloud Network Engineer](https://images.credly.com/size/80x80/images/fd53cb0e-6622-4a14-a7d0-5793c8703a4c/image.png)](https://www.credly.com/badges/6f635321-a9e0-44f2-9afa-ef8023c92766)
@@ -71,17 +75,17 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
 [![AWS Certified Security – Specialty](https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](https://www.credly.com/badges/c46a2801-c9d0-4611-946b-f0b7d51b725b)
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/2edfb855-94af-476d-b8a3-96986a6e64be)
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/f6c3f7a3-61a2-4864-8992-84e501f1c9c9)
-[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/a9912bd5-ce96-4222-b0a1-fefa4e9c7fb8)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/53ddc95f-b290-43b1-b2a5-d353425e87c8)
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/80x80/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](https://www.credly.com/badges/0b6840b6-ac0b-4053-b41d-ef4424a1c133)
-[![AWS Certified Machine Learning Engineer – Associate](https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/f8bef513-2618-4749-bec0-b88cfcfe1348)
+[![AWS Certified Machine Learning Engineer – Associate](https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/025f5ea0-572e-4922-9d1b-c672fb095a0b)
 [![AWS Certified Machine Learning Engineer - Associate Early Adopter](https://images.credly.com/size/80x80/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png)](https://www.credly.com/badges/2070b617-f314-43f0-b083-de9d27ed56f7)
-[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/b69267f4-c430-42a0-835d-e988d9360dfe)
+[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/5207f913-473f-4ecc-a32e-ac7eb760bdeb)
 [![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/80x80/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/0da657b5-5e03-4d43-a183-a4559cb7ed63)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/69618f9c-085f-4a15-886e-a7fc859fcebe)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/4e387456-2c89-4ba0-a79c-5a6209b67423)
 [![Associate Cloud Engineer](https://images.credly.com/size/80x80/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](https://www.credly.com/badges/d7425800-b74d-4b65-8a56-189ea895ff15)
 [![Cloud Digital Leader](https://images.credly.com/size/80x80/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](https://www.credly.com/badges/b451b93b-bb7f-42e4-93af-db4d9be13cd2)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/8a10d3bf-ed6f-4046-8231-7ab287a61273)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b4f4c855-938a-45ff-bfd3-8ee7c8c07b04)
 <!--END_SECTION:badges-->
 
 </details>
