@@ -54,6 +54,7 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+[![Claude Certified Associate - Foundations](https://images.credly.com/size/80x80/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob)](https://www.credly.com/badges/948e4841-8e38-49fb-b6e0-914cc1a89b46)
 [![AWS Certified Generative AI Developer - Professional](https://images.credly.com/size/80x80/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/badges/e80f3b9d-f0f4-4942-a121-3662d86fc682)
 [![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/6fd34c49-b8e9-4ede-bbd7-5a27276ed6f9)
 [![Implement CI/CD Pipelines on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/0daf1b0e-28c3-4102-96cf-e9d5f9213cc3/image.png)](https://www.credly.com/badges/edd47588-0fd1-4fe9-8e3e-d4fed01d7c52)
