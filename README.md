@@ -54,6 +54,16 @@ I'm also deeply interested in the field of AI/ML and continuaously explore ways 
   <summary>Click to expand</summary>
 
 <!--START_SECTION:badges-->
+[![Claude Certified Architect - Professional](https://images.credly.com/size/80x80/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob)](https://www.credly.com/badges/708e60a8-7def-4586-b68d-0a56ecd8470d)
+[![Accelerate Development with Antigravity](https://images.credly.com/size/80x80/images/9a9bd5ca-b41b-41ed-82ad-43968d960f62/blob)](https://www.credly.com/badges/22d7ab5d-2a3e-4c4d-9b7e-1d46fde4c878)
+[![Add Agents to Gemini Enterprise](https://images.credly.com/size/80x80/images/c386f11b-05fd-4755-b091-611d9bb96113/blob)](https://www.credly.com/badges/a500915a-562d-418e-974c-43a3a9049cfb)
+[![Certified Partner Specialist Gemini Enterprise Agent Development](https://images.credly.com/size/80x80/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob)](https://www.credly.com/badges/3c3eae01-5532-4a4b-95f4-26b7ccc36807)
+[![Certified Partner Specialist Gemini Enterprise Deployment](https://images.credly.com/size/80x80/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob)](https://www.credly.com/badges/ee00b7ab-8d84-4144-a30a-d703ad7766e9)
+[![Deploy an Agent with Agent Development Kit (ADK)](https://images.credly.com/size/80x80/images/e9c45e2a-a48e-4686-99df-7de0ccd6dae7/blob)](https://www.credly.com/badges/6f0bf38e-bac3-48fc-8d07-11faa83d2490)
+[![Deploy Gemini Enterprise with Workspace Data Sources and Model Armor](https://images.credly.com/size/80x80/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob)](https://www.credly.com/badges/35b7788c-19ba-4aca-b9b1-3213c09cf278)
+[![Evaluate and Improve Agent Development Kit Agents](https://images.credly.com/size/80x80/images/b1800059-b7de-4065-851d-678287ea0720/blob)](https://www.credly.com/badges/5584412a-db79-43b2-8a13-4274dbd42855)
+[![Govern Agent Access with Gemini Enterprise Agent Platform](https://images.credly.com/size/80x80/images/39c0ab96-e088-4d83-baaf-395633aa1810/blob)](https://www.credly.com/badges/af88cc3e-6b7d-4b61-9767-87824954ed02)
+[![Claude Certified Developer - Foundations](https://images.credly.com/size/80x80/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob)](https://www.credly.com/badges/db6b59c4-addf-4492-bb9c-80a0e174aaf5)
 [![Claude Certified Associate - Foundations](https://images.credly.com/size/80x80/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob)](https://www.credly.com/badges/948e4841-8e38-49fb-b6e0-914cc1a89b46)
 [![AWS Certified Generative AI Developer - Professional](https://images.credly.com/size/80x80/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/badges/e80f3b9d-f0f4-4942-a121-3662d86fc682)
 [![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/6fd34c49-b8e9-4ede-bbd7-5a27276ed6f9)
